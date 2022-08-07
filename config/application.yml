@@ -1,0 +1,10 @@
+server:
+  port:8081
+datasourse:
+  driverName: mysql
+  host: 127.0.0.11
+  port: 3306
+  database: zxr
+  username: zxr
+  password: zxr123
+  charset: utf8
